@@ -10,7 +10,7 @@ html {
     /*FONT:*/   
     font-family: var(--font);
     color: var(--textColor);
-    font-size: 18px; 
+    font-size: 20px; 
     font-weight: 400;
 
     /*BACKGROUND:*/
@@ -47,7 +47,7 @@ img {
 
 main {
     width: auto;
-    max-width: 600px;
+    max-width: 1500px;
     margin: 15px auto;
 }
 
