@@ -10,7 +10,7 @@ html {
     /*FONT:*/   
     font-family: var(--font);
     color: var(--textColor);
-    font-size: 20px; 
+    font-size: 22px; 
     font-weight: 400;
 
     /*BACKGROUND:*/
@@ -46,7 +46,7 @@ img {
 }
 
 main {
-    width: 100%;
+    width: 200%;
     max-width: 500px;
     margin: 15px auto;
 }
@@ -64,7 +64,7 @@ a {
 
     display: block; /*each link takes a whole line*/
     margin: 20px;
-    padding: 20px;
+    padding: 40px;
     transition: .2s;
 }
 
