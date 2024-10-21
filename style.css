@@ -46,7 +46,7 @@ img {
 }
 
 main {
-    width: auto;
+    width: 100%;
     max-width: 500px;
     margin: 15px auto;
 }
